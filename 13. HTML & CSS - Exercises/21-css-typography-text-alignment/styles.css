@@ -13,3 +13,8 @@ body {
 .left {
     text-align: left;
 }
+
+
+p {
+    text-align-last: right;
+}
